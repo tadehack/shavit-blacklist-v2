@@ -18,3 +18,8 @@ When using this new special string on a style, it will make it so only who are b
 - The /blacklist command was changed to /blacklistmenu, /blmenu or /blm, the reason for that is so you can have the /blacklist command for the default blacklist style, that way it won't overlap with the admin command.
 
 - Some of the plugin texts were re-writen for a cleaner look.
+
+## Requirements:  
+- [Shavit bhop timer](https://github.com/shavitush/bhoptimer)
+- [Rest in Pawn v1.3 or greater](https://forums.alliedmods.net/showthread.php?t=298024)
+- [Ripext extension for Rest in Pawn](https://github.com/ErikMinekus/sm-ripext)
