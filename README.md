@@ -3,7 +3,7 @@ This is an improved version of the blacklist plugin for shavit's timer, most of 
 
 ## Features (and changes):  
 
-### Enimmy changes:  
+### Enimmy's changes:  
 - Integrated SouceJump bans API > Automatically inserts a banned user in the blacklist (manual insertion is also available with the command: sm_blm *steamid*, or by manually searching through the list ('blm' stands for 'blacklist menu')).  
   
 - Support for multiple blacklisted styles instead of just one.
