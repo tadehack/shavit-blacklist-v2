@@ -10,7 +10,7 @@ This is an improved version of the blacklist plugin for shavit's timer, most of 
 
   
 ### My changes:  
-- Alongside the 'blacklist' special string, there is now a new 'blacklistOnly' special string, when inserting this new special string on a style, it will make it so only who are blacklisted can play on that style, while with the old 'blacklist' special string, both blacklisted and non-blacklisted players can play on that style. This is useful when you still want to let blacklisted players play on some of the off-styles while at the same time having their unique blacklisted-only styles, example: 'Blacklist Normal' and 'Blacklist Segmented' will use the 'blacklistOnly' special string, while styles like 'TAS' and 'Parkour' can have the regular 'blacklist' special string.  
+- Alongside the 'blacklist' special string, there is now a new 'blacklistOnly' special string. When using this new special string on a style, it will make it so only who are blacklisted can play on that style, while with the old 'blacklist' special string, both blacklisted and non-blacklisted players can play on that style. This is useful when you still want to let blacklisted players play on some of the off-styles while at the same time having their unique blacklisted-only styles, example: 'Blacklist Normal' and 'Blacklist Segmented' will use the 'blacklistOnly' special string, while styles like 'TAS' and 'Parkour' can have the regular 'blacklist' special string.  
   
 - If a blacklisted player switch their style to a non-blacklisted style and a 'blacklistOnly' style exists, their style will be changed to the first 'blacklistOnly' style on the list, if not, their style will be changed to the first regular 'blacklist' style on the list.  
   
